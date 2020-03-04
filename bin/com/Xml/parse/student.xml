@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE students SYSTEM  "student.dtd">
-
-<students>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
 	
-	<student number="a001">
+	<student ID="0001" number="a001">
 		<name>jack</name>
 		<age>15</age>
 		<sex>boy</sex>
+		
 	</student>
 	
 	<student number="a002">
 		<name>tom</name>
-		<age>16</age>
+		<age>20</age>
 		<sex>boy</sex>
 	</student>
 </students>
